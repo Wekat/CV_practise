@@ -4,6 +4,27 @@ h3{
 
 .header{
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 5px;
     color: white;
     background-color: salmon;
+}
+
+.nav_bar, .nav_headings {
+    text-align: right;
+}
+
+.nav_headings {
+    text-decoration: none;
+    color: white;
+    padding-right: 15px;
+}
+
+.block {
+    max-width: 500px;
+    margin: auto;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    text-align: center;
+    border-bottom: 2px solid salmon;
 }
